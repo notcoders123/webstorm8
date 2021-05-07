@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import index from "@/views/index";
-import Login from "@/components/login";
+import Login from "@/views/login";
 Vue.use(VueRouter)
 
 const routes = [
